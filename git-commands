@@ -10,3 +10,17 @@ To check your configuration:
 git config --list
 
 
+initialize a Git repository:
+git init
+
+Check the Status
+git status
+
+View Commit History
+git log
+
+Create and Switch Branches
+git branch new-feature
+git checkout new-feature
+
+
